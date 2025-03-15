@@ -19,7 +19,7 @@ Follow these steps to update your device to the latest firmware.
 - The version number will be displayed on the screen.
 
 ## ⚠️ Important Notes
-- Make sure the **firmware file is correct** for your device.
+- Only Install Firmware files from the official repository!!
 - Do not unplug the device during the update process.
 
 ---
