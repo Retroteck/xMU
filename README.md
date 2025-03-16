@@ -1,4 +1,9 @@
 # xMU
+
+## 🛒 Now Available for Purchase!  
+You can get the xMU pre-built and ready to use:  
+👉 **[Now Available Here!](https://www.ebay.com/itm/396231266186)**
+
 Repository for Firmware updates for the xMU
 A Multi-size USB Drive and Memory Unit for the original Xbox.
 
@@ -27,4 +32,3 @@ Follow these steps to update your device to the latest firmware.
 
 
 ```md
-![Update Menu](images/menu_update.png)
