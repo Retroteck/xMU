@@ -24,8 +24,6 @@ Follow these steps to update your device to the latest firmware.
 
 ---
 
-### **2. Add Screenshots or GIFs**
-To make it more user-friendly, include images in your repository (e.g., `images/menu_update.png`) and reference them like this in the Markdown:
 
 ```md
 ![Update Menu](images/menu_update.png)
