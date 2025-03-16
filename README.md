@@ -1,5 +1,6 @@
 # xMU
 Repository for Firmware updates for the xMU
+A Multi-size USB Drive and Memory Unit for the original Xbox.
 
 # 🔄 Updating the Unit
 
